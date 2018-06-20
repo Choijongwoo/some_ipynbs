@@ -1,0 +1,1 @@
+jt -t grade3 -fs 10 -f meslo -tfs 11 -dfs 8 -nfs 9 -cellw 82% -T
